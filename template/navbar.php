@@ -1,6 +1,6 @@
         <?php if(!isset($_COOKIE['logged'])){?>
         <!-- NAVBAR NOT LOGGED -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color:gainsboro !important;">
             <!-- Container wrapper -->
             <div class="container">
                 <!-- Navbar brand -->

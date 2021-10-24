@@ -12,5 +12,7 @@ include_once './lib/config.php'
 </head>
 <body>
     <?php include './template/navbar.php';?>
+
+    <?php include './template/footer.php';?>
 </body>
 </html>

@@ -10515,4 +10515,8 @@ textarea.form-control-lg {
     }
 }
 
+a{
+text-decoration-line: none !important;
+}
+
 /*# */
